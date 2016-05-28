@@ -2,7 +2,7 @@
 
 Esse projeto é o desafio proposto pelos Negócios Reais.<br/>
 É um projeto em Laravel com extração de dados<br/>
-Para executar o projeto salve essas rotas no arquivo <b>routes.php</b> (app/Http)<br/>
+Para executar o projeto instale as dependencias do Laravel pelo composer e configure as rotas no arquivo <b>routes.php</b> (app/Http)<br/>
 
 <br/>
 Route::get('/','PagesController@index');<br/>
